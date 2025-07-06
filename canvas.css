@@ -1,0 +1,122 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+	margin: 0;
+	background: white;
+	font-family: 'Work Sans', sans-serif;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 150px;
+    margin-left: 45%;
+}
+button{
+    background-color: black;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-image: linear-gradient(to right, red, gray) 10 10 10 10  ;
+    position: fixed;
+    margin-top: -1%;
+}
+button:hover{
+    background-color: white;
+    color: black;
+    width: 100px;
+    height: 30px;
+    border-image: linear-gradient(to right, red, gray) 10 10 10 10  ;
+    margin-top: -1%;
+}
+.up{
+  position: fixed;
+  width: 60px;
+  height: 30px;
+  background-color: grey;
+  bottom: 40px;
+  right: 50px;
+  border-radius: 40%;
+  color: black;
+  text-decoration: none;
+  text-align: center;
+   line-height:  30px;
+   font-size: 22px;
+}
+.up:hover{
+  background-color: black;
+  border-radius: 0%;
+  border-image: linear-gradient(to right,  white black)5 5 5 5;
+  border-radius: 40%;
+  color: white;
+}
+.container-canvas{
+    margin-left: 0%;
+    width: 90%;
+    margin-left: 5%;
+
+}
+li{
+    font-size: 20px;
+}
+.ul0{
+    font-size: 30px;
+    color: white;
+    border: solid black 5px;
+    background: linear-gradient(to right, gray,black);
+}
+.ul1{
+    font-size: 30px;
+    color: white;
+    border: solid black 5px;
+    background: linear-gradient(to right, gray,black);
+}
+.ul2{
+    font-size: 30px;
+    color: white;
+    border: solid black 5px;
+    background: linear-gradient(to right, gray,black);
+}
+.ul3{
+    font-size: 30px;
+    color: white;
+    border: solid black 5px;
+    background: linear-gradient(to right, gray,black);
+}
+.ul4{
+    font-size: 30px;
+    color: white;
+    border: solid black 5px;
+    background: linear-gradient(to right, gray,black);
+}
+.ul5{
+    font-size: 30px;
+    color: white;
+    border: solid black 5px;
+    background: linear-gradient(to right, gray,black);
+}
+.ul6{
+    font-size: 30px;
+    color: white;
+    border: solid black 5px;
+    background: linear-gradient(to right, gray,black);
+}
+.ul7{
+    font-size: 30px;
+    color: white;
+    border: solid black 5px;
+    background: linear-gradient(to right, gray,black);
+}.ul8{
+    font-size: 30px;
+    color: white;
+    border: solid black 5px;
+    background: linear-gradient(to right, gray,black);
+}
+.ul9{
+    font-size: 30px;
+    color: white;
+    border: solid black 5px;
+    background: linear-gradient(to right, gray,black);
+}
+
